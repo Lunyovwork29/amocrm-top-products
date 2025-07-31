@@ -1,0 +1,9 @@
+{
+  "widgets": [
+    {
+      "location": "dashboard",
+      "title": "ТОП-3 продукта",
+      "src": "https://YOUR-VERCEL-URL/index.html"
+    }
+  ]
+}
