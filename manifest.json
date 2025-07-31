@@ -3,7 +3,7 @@
     {
       "location": "dashboard",
       "title": "ТОП-3 продукта",
-      "src": "https://YOUR-VERCEL-URL/index.html"
+      "src": "https://amocrm-top-products-eas7dlnnl-lunyovworks-projects.vercel.app/index.html"
     }
   ]
 }
